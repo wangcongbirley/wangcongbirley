@@ -1,8 +1,7 @@
-- 👋 Hi, I’m birley wang
-- 👀 I’m interested in game
+- 👋 Hi,I'm kevin wang
+- 👀 I’m interested in games and lovely cats
 - 🌱 I’m currently learning how to develop a game 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 you can contact me with email
 
 <!---
 wangcongbirley/wangcongbirley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
