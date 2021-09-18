@@ -1,6 +1,6 @@
 - 👋 Hi,I'm kevin wang
-- 👀 I’m interested in games and lovely cats
-- 🌱 I’m currently learning how to develop a game 
+- 👀 I’m interested in games and cars
+- 🌱 I’m currently working a system 
 - 📫 you can contact me with email
 
 <!---
